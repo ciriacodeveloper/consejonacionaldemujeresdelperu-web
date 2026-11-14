@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias · Consejo Nacional de Mujeres del Perú</title>
+    <link>https://consejonacionaldemujeresdelperu.com/noticias.html</link>
+    <atom:link href="https://consejonacionaldemujeresdelperu.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Ceremonias, actividades, historia y novedades del Consejo Nacional de Mujeres del Perú.</description>
+    <language>es-pe</language>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 -0500</lastBuildDate>
+    <item>
+      <title>Juramentó el Consejo Directivo para el periodo 2025–2027</title>
+      <link>https://consejonacionaldemujeresdelperu.com/noticias/juramentacion-consejo-directivo-2025-2027.html</link>
+      <guid isPermaLink="true">https://consejonacionaldemujeresdelperu.com/noticias/juramentacion-consejo-directivo-2025-2027.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0500</pubDate>
+      <category>Institucional</category>
+      <description>En ceremonia solemne, las integrantes del nuevo Consejo Directivo, presidido por María Amelia Asenjo Azpilcueta, asumieron sus cargos conforme al estatuto.</description>
+    </item>
+    <item>
+      <title>Nuestra presidenta celebró las Bodas de Plata de la primera promoción del Doctorado en Economía de la UNFV</title>
+      <link>https://consejonacionaldemujeresdelperu.com/noticias/bodas-de-plata-doctorado-economia-unfv.html</link>
+      <guid isPermaLink="true">https://consejonacionaldemujeresdelperu.com/noticias/bodas-de-plata-doctorado-economia-unfv.html</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <category>Presidencia</category>
+      <description>La Universidad Nacional Federico Villarreal rindió homenaje a la primera promoción del Doctorado en Economía «Amartya Sen», a 25 años de la culminación de sus estudios.</description>
+    </item>
+    <item>
+      <title>La Plaza del Rosario: la obra que el Consejo levantó en tiempo récord para la visita de Juan Pablo II</title>
+      <link>https://consejonacionaldemujeresdelperu.com/noticias/plaza-del-rosario-historia.html</link>
+      <guid isPermaLink="true">https://consejonacionaldemujeresdelperu.com/noticias/plaza-del-rosario-historia.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0500</pubDate>
+      <category>Historia</category>
+      <description>Seis toneladas de bronce donadas por 1 080 personas, una escultura de la Virgen y una plaza inaugurada en Jesús María en mayo de 1988. Esta es su historia.</description>
+    </item>
+    <item>
+      <title>Rezo del Rosario en la Plaza del Rosario: primeros sábados de cada mes a las 5:00 p.m.</title>
+      <link>https://consejonacionaldemujeresdelperu.com/noticias/rezo-del-rosario-primeros-sabados.html</link>
+      <guid isPermaLink="true">https://consejonacionaldemujeresdelperu.com/noticias/rezo-del-rosario-primeros-sabados.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0500</pubDate>
+      <category>Actividades</category>
+      <description>Desde 1988, de manera ininterrumpida, el Movimiento Católico Plaza del Rosario convoca al rezo del Santo Rosario en la plaza que el Consejo levantó en Jesús María.</description>
+    </item>
+    <item>
+      <title>3 de marzo de 1923: así nació el Consejo Nacional de Mujeres del Perú</title>
+      <link>https://consejonacionaldemujeresdelperu.com/noticias/fundacion-del-consejo-3-de-marzo-de-1923.html</link>
+      <guid isPermaLink="true">https://consejonacionaldemujeresdelperu.com/noticias/fundacion-del-consejo-3-de-marzo-de-1923.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 -0500</pubDate>
+      <category>Historia</category>
+      <description>La visita de Carrie Chapman Catt a Lima, el impulso de María Jesús Alvarado y una generación de educadoras y escritoras dieron origen a la institución que desde 1926 representa a la mujer peruana ante el Consejo Internacional de Mujeres.</description>
+    </item>
+  </channel>
+</rss>
